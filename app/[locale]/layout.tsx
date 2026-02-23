@@ -4,8 +4,8 @@ import { TranslationProvider } from '@/contexts/TranslationContext'
 import '../globals.css'
 
 export const metadata: Metadata = {
-  title: 'Gauas - Developer Freelancer',
-  description: 'Code optimization, full-stack development, legacy software modernization.',
+  title: 'Gauas - We Ship Good Software',
+  description: 'Clean code, fast delivery, real results. AI code cleanup, full-cycle development, performance optimization & architecture consulting.',
   icons: {
     icon: [
       {

@@ -19,16 +19,16 @@
   "services.subtitle": "Comprehensive software development solutions tailored to your needs",
   
   "services.offering.title": "What We Offer",
-  "services.offering.aiCodeImprovement.title": "AI Code Improvement (Vibecoding)",
+  "services.offering.aiCodeImprovement.title": "Clean Your AI-Generated Code",
   "services.offering.aiCodeImprovement.desc": "Transform AI-generated code into clean, extensible, production-ready solutions. Reduce technical debt, security risks, and future maintenance costs.",
   
-  "services.offering.fullCycle.title": "Full Cycle Development",
+  "services.offering.fullCycle.title": "Ship Your Product End-to-End",
   "services.offering.fullCycle.desc": "Complete software development and deployment from design through production. End-to-end project management ensuring quality at every phase.",
   
-  "services.offering.optimization.title": "Performance & Cost Optimization",
+  "services.offering.optimization.title": "Make It Faster. Pay Less.",
   "services.offering.optimization.desc": "Accelerate your product's speed and efficiency. Increase user adoption while significantly reducing operational and infrastructure costs.",
   
-  "services.offering.consulting.title": "Architecture & Strategy Consulting",
+  "services.offering.consulting.title": "Build on the Right Architecture",
   "services.offering.consulting.desc": "Expert guidance on solutions, processes, and architecture patterns tailored to your software and business objectives.",
   
   "services.web.title": "Web Development",
@@ -103,10 +103,10 @@
   "owner.phone": "0367641617",
   "owner.title": "Full Stack Developer",
   "owner.location": "Vietnam",
-  "owner.telegram": "quocbao_tnq",
-  "owner.messenger": "quocbao.tnq",
-  "owner.discord": "quocbao#1234",
-  "owner.linkedin": "quocbao-tnq",
+  "owner.telegram": "tnq_bao",
+  "owner.messenger": "tranng.qubao",
+  "owner.discord": "trannguyenquocbao",
+  "owner.linkedin": "tnqb2004",
   "owner.website": "https://gauas.dev",
 
   "common.loading": "Loading...",

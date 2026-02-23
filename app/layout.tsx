@@ -9,8 +9,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Gauas - Developer Freelancer',
-  description: 'Code optimization, full-stack development, legacy software modernization. Professional, high-performance solutions.',
+  title: 'Gauas - We Ship Good Software',
+  description: 'Clean code, fast delivery, real results. AI code cleanup, full-cycle development, performance optimization & architecture consulting.',
   generator: 'v0.app',
   icons: {
     icon: [

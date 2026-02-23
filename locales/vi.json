@@ -19,16 +19,16 @@
   "services.subtitle": "Giải pháp phát triển phần mềm toàn diện được thiết kế theo nhu cầu của bạn",
   
   "services.offering.title": "Dịch Vụ Chính",
-  "services.offering.aiCodeImprovement.title": "Cải Tiến Mã AI (Vibecoding)",
+  "services.offering.aiCodeImprovement.title": "Làm Sạch Code AI Của Bạn",
   "services.offering.aiCodeImprovement.desc": "Biến mã do AI sinh ra thành các giải pháp sạch, dễ mở rộng, sẵn sàng sản phẩm. Giảm chi phí kỹ thuật, rủi ro bảo mật, và chi phí bảo trì.",
   
-  "services.offering.fullCycle.title": "Phát Triển Trọn Gói",
+  "services.offering.fullCycle.title": "Đưa Sản Phẩm Ra Thị Trường Trọn Gói",
   "services.offering.fullCycle.desc": "Phát triển và triển khai phần mềm hoàn chỉnh từ khâu thiết kế đến chạy sản phẩm. Quản lý dự án từ đầu đến cuối đảm bảo chất lượng ở mỗi giai đoạn.",
   
-  "services.offering.optimization.title": "Tối Ưu Hiệu Suất & Chi Phí",
+  "services.offering.optimization.title": "Nhanh Hơn. Chi Phí Thấp Hơn.",
   "services.offering.optimization.desc": "Tăng tốc độ sản phẩm và hiệu quả. Tăng người dùng trong khi giảm đáng kể chi phí vận hành và cơ sở hạ tầng.",
   
-  "services.offering.consulting.title": "Tư Vấn Kiến Trúc & Chiến Lược",
+  "services.offering.consulting.title": "Xây Đúng Kiến Trúc Ngay Từ Đầu",
   "services.offering.consulting.desc": "Hướng dẫn chuyên môn về giải pháp, quy trình, và mô hình kiến trúc phù hợp với phần mềm và mục tiêu kinh doanh của bạn.",
   
   "services.web.title": "Phát Triển Web",
@@ -103,10 +103,10 @@
   "owner.phone": "0367641617",
   "owner.title": "Lập Trình Viên Full Stack",
   "owner.location": "Việt Nam",
-  "owner.telegram": "quocbao_tnq",
-  "owner.messenger": "quocbao.tnq",
-  "owner.discord": "quocbao#1234",
-  "owner.linkedin": "quocbao-tnq",
+  "owner.telegram": "tnq_bao",
+  "owner.messenger": "tranng.qubao",
+  "owner.discord": "trannguyenquocbao",
+  "owner.linkedin": "tnqb2004",
   "owner.website": "https://gauas.dev",
 
   "common.loading": "Đang tải...",
